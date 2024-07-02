@@ -17,11 +17,17 @@ namespace TurnitBusStationApplication{
             this.endTime = endTime;
         }
 
-        public static BreakTime startAndEndTime(String time){
+        public static BreakTime startAndEndTime(String time) {
             String[] times = time.Split("-");
-           DateTime startTime = DateTime.Parse(times[0]);
-           DateTime endTime = DateTime.Parse(times[1]);
-            return new BreakTime(startTime, endTime);
+            DateTime startTime = DateTime.Parse(times[0]);
+            DateTime endTime = DateTime.Parse(times[1]);
+
+            if (startTime > endTime) {
+                return null;
+
+            }else{
+                return new BreakTime(startTime, endTime);
+            }
         }
 
         public static void busiestTime(List<BreakTime> breakTimes){
@@ -68,9 +74,13 @@ namespace TurnitBusStationApplication{
             Console.WriteLine("Please enter the break time. (Format example: 13:00-13:45)");
             var addBreak = Console.ReadLine();
             try {
-                if (addBreak != null) {
-                    BreakTime.startAndEndTime(addBreak);
-                    breakTimes.Add(BreakTime.startAndEndTime(addBreak));
+                   BreakTime brk = BreakTime.startAndEndTime(addBreak);
+
+                if (addBreak != null && brk != null) {
+                    breakTimes.Add(brk);
+                }else{
+
+                    Console.WriteLine("Something went wrong with add. Try again!");
                 }
             }
             catch (Exception e) {
