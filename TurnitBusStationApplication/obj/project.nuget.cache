@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ll+0zEYpANM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplication\\TurnitBusStationApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renar\\.nuget\\packages\\xunit\\2.8.1\\xunit.2.8.1.nupkg.sha512",
+    "C:\\Users\\Renar\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Renar\\.nuget\\packages\\xunit.analyzers\\1.14.0\\xunit.analyzers.1.14.0.nupkg.sha512",
+    "C:\\Users\\Renar\\.nuget\\packages\\xunit.assert\\2.8.1\\xunit.assert.2.8.1.nupkg.sha512",
+    "C:\\Users\\Renar\\.nuget\\packages\\xunit.core\\2.8.1\\xunit.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\Renar\\.nuget\\packages\\xunit.extensibility.core\\2.8.1\\xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\Renar\\.nuget\\packages\\xunit.extensibility.execution\\2.8.1\\xunit.extensibility.execution.2.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

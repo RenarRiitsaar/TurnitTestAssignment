@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE972F5-F94F-4936-B574-4AFBE2FA835D}|TurnitBusStationApplication\\TurnitBusStationApplication.csproj|c:\\users\\renar\\onedrive\\desktop\\c#\\turnitbusstationapplication\\turnitbusstationapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE972F5-F94F-4936-B574-4AFBE2FA835D}|TurnitBusStationApplication\\TurnitBusStationApplication.csproj|solutionrelative:turnitbusstationapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE972F5-F94F-4936-B574-4AFBE2FA835D}|TurnitBusStationApplication\\TurnitBusStationApplication.csproj|c:\\users\\renar\\onedrive\\desktop\\c#\\turnitbusstationapplication\\turnitbusstationapplication\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE972F5-F94F-4936-B574-4AFBE2FA835D}|TurnitBusStationApplication\\TurnitBusStationApplication.csproj|solutionrelative:turnitbusstationapplication\\useroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C95D0C0-DD28-4B40-A2C1-044C95A1B802}|TurnitBusStationApplicationTests\\TurnitBusStationApplicationTests.csproj|c:\\users\\renar\\onedrive\\desktop\\c#\\turnitbusstationapplication\\turnitbusstationapplicationtests\\breaktimetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C95D0C0-DD28-4B40-A2C1-044C95A1B802}|TurnitBusStationApplicationTests\\TurnitBusStationApplicationTests.csproj|solutionrelative:turnitbusstationapplicationtests\\breaktimetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE972F5-F94F-4936-B574-4AFBE2FA835D}|TurnitBusStationApplication\\TurnitBusStationApplication.csproj|c:\\users\\renar\\onedrive\\desktop\\c#\\turnitbusstationapplication\\turnitbusstationapplication\\pathverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE972F5-F94F-4936-B574-4AFBE2FA835D}|TurnitBusStationApplication\\TurnitBusStationApplication.csproj|solutionrelative:turnitbusstationapplication\\pathverification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BreakTimeTests.cs",
+              "DocumentMoniker": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplicationTests\\BreakTimeTests.cs",
+              "RelativeDocumentMoniker": "TurnitBusStationApplicationTests\\BreakTimeTests.cs",
+              "ToolTip": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplicationTests\\BreakTimeTests.cs",
+              "RelativeToolTip": "TurnitBusStationApplicationTests\\BreakTimeTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:42:14.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplication\\UserOperations.cs",
+              "RelativeDocumentMoniker": "TurnitBusStationApplication\\UserOperations.cs",
+              "ToolTip": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplication\\UserOperations.cs",
+              "RelativeToolTip": "TurnitBusStationApplication\\UserOperations.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:51:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PathVerification.cs",
+              "DocumentMoniker": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplication\\PathVerification.cs",
+              "RelativeDocumentMoniker": "TurnitBusStationApplication\\PathVerification.cs",
+              "ToolTip": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplication\\PathVerification.cs",
+              "RelativeToolTip": "TurnitBusStationApplication\\PathVerification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:54:12.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TurnitBusStationApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Renar\\OneDrive\\Desktop\\C#\\TurnitBusStationApplication\\TurnitBusStationApplication\\Program.cs",
+              "RelativeToolTip": "TurnitBusStationApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:05:12.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
