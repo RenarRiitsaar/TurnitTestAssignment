@@ -18,28 +18,31 @@ namespace TurnitBusStationApplication {
                 Console.WriteLine("\nEnter the choice: \n 1. View break times" +
                     "\n 2. Add break time \n 3. Exit");
 
-                String userInput = Console.ReadLine();
-                int choice = Convert.ToInt32(userInput);
+                try {
+                    String userInput = Console.ReadLine();
+                    int choice = Convert.ToInt32(userInput);
 
-                switch (choice)
-                {
+                    switch (choice) {
 
-                    case 1:
-                        foreach(BreakTime breakTime in breakTimes)
-                        {
-                            Console.WriteLine(breakTime.ToString());
-                        }
-                        BreakTime.busiestTime(breakTimes);
-                        break;
+                        case 1:
+                            foreach (BreakTime breakTime in breakTimes) {
+                                Console.WriteLine(breakTime.ToString());
+                            }
+                            BreakTime.busiestTime(breakTimes);
+                            break;
 
-                    case 2:
-                        BreakTime.addBreak(breakTimes);
-                        BreakTime.busiestTime(breakTimes);
-                        break;
-                    case 3:
-                        Console.WriteLine("Exiting...");
-                        System.Environment.Exit(0);
-                        break;
+                        case 2:
+                            BreakTime.addBreak(breakTimes);
+                            BreakTime.busiestTime(breakTimes);
+                            break;
+                        case 3:
+                            Console.WriteLine("Exiting...");
+                            System.Environment.Exit(0);
+                            break;
+                    }
+                }catch (Exception e) {
+                    Console.WriteLine(e.StackTrace);
+                    Console.WriteLine("\n Invalid input. Use 1-3.");
                 }
             }
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TurnitBusStationApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad2a8acee442abe49bbcbcc2c9073e3a6f832527")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd1ff80baeebd22fb95db9f180418a6ef5f8888")]
 [assembly: System.Reflection.AssemblyProductAttribute("TurnitBusStationApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TurnitBusStationApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
